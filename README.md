@@ -9,6 +9,10 @@ I started using FORTRAN as an undergraduate. At that time I was working with a s
 
 At FSU my experience with FORTRAN has been primarily for course work. A one semseter course on Numerical ocean modeling required me to tinker with a reduced gravity model. However, a wealth of experience was gained during a 1 year course series on Numerical PDEs. During this time I worked on a lot of finite difference and finite volume solvers that required me to write modular code and use advanced data structures. The codes can be found here (https://github.com/dhruvbalwada/Numerical_PDEs). The codes under the FVM folder are in my opinion the most sophisticated. 
 
-A short collection of codes to highlight programming capabilities.
+I used python primarily for making simple 3D movies (https://www.youtube.com/watch?v=gRnIld6qiw0).
 
-1. animate_floats_3d.py - A 
+Attached codes and their purpose: 
+
+1. animate_floats_3d.py - A simple visualization script that uses MayaVi libraries. 
+2. 
+
