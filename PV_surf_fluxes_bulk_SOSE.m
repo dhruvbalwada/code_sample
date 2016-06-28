@@ -1,8 +1,9 @@
-% Estimates the surface PV fluxes
+% ==============================================================================
+% Purpose : Estimates the surface PV fluxes
 % Uses bulk formulae listed in Deremble et al 2014
 % Dhruv Balwada
 % 20/6/2016
-
+% ==============================================================================
 clear all 
 close all 
 
