@@ -1,5 +1,5 @@
 # code_sample
-I have been coding for almost 15 now and I have transitioned over a number of languages in this duration, based on the requirement. Within the last few years I have worked mostly with MATLAB and FORTRAN, but also to a limited extent with Python. I would not say that the choice of any of these languages was necessarily for some special technical reasons, but primarily as it was what helped me work best with the research group that I was working with. 
+I have been coding for almost 15 years and have transitioned over a number of languages during this time. Within the last few years I have worked mostly with MATLAB and FORTRAN, but also to a limited extent with Python. I would not say that the choice of any of these languages was necessarily for some special technical reasons, but primarily as it was what helped me work best with the research group that I was working with. 
 
 Most of the DIMES data processing and analysis was done using MATLAB. A software program called ARTOA (http://www.whoi.edu/instrument/rafos/artoa-float-tracking), developed at WHOI, was used for the float processing. During the few years that I worked with ARTOA I was an active developer for the software and helped fix bugs and added some small modules to it. 
 
