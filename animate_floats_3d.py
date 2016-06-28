@@ -1,8 +1,11 @@
-import os
+## ====================================================
+## Purpose:  Animate DIMES floats in 3D using Mayavi
+## Author :  Dhruv Balwada
+## ====================================================
 
+import os
 # Go to appropriate data directory
 os.chdir('/Users/dhruvbalwada/Work/Scripts_mat/3Dvis')
-
 import numpy
 import scipy
 import mayavi
