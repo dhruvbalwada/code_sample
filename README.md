@@ -9,12 +9,12 @@ I started using FORTRAN as an undergraduate. At that time I was working with a s
 
 At FSU my experience with FORTRAN was originally for course work. A one semseter course on Numerical ocean modeling required me to tinker with a reduced gravity model. However, a wealth of experience was gained during a 1 year course series on Numerical PDEs. During this time I worked on a lot of finite difference and finite volume solvers that required me to write modular code and use advanced data structures. The codes can be found here (https://github.com/dhruvbalwada/Numerical_PDEs). The codes under the FVM folder are in my opinion the most sophisticated. 
 
-More recently I have been using calculating Potential Vorticity budgets in SOSE. To do this ...
+More recently I have been calculating Potential Vorticity budgets using SOSE output. To do this ...
 
 I used python primarily for making simple 3D movies (https://www.youtube.com/watch?v=gRnIld6qiw0).
 
 Attached codes and their purpose: 
 
 1. animate_floats_3d.py - A simple visualization script that uses MayaVi libraries. 
-2. 
+2. cdfjz_all.f90        - Analyze ,...
 
