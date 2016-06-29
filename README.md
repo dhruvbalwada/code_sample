@@ -1,5 +1,5 @@
 # code_sample
-I have been writing code for almost 15 years and have transitioned over a number of pragramming languages during this time. I understand the philosophy of code, which is the most important and only skill required in my opinion and based on my personal experience. New programming languages, new algorithms or code management services are tools that can be picked up easily and as required, granted one understands the philosophy. Nevertheless, in this github repository I provide a few samples of codes that I have written over the last year and also a short summary of my experience. 
+I have been writing code for almost 15 years and have used a number of programming languages during this time. In this github repository I provide a few samples of codes that I have written over the last year and also a short summary of my experience. 
 
 Within the last few years I have worked mostly with MATLAB and FORTRAN, and also to a limited extent with Python. 
 
