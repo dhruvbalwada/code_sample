@@ -13,7 +13,7 @@ The most recent experience with FORTRAN has been to work with SOSE output. For t
 
 The use of Python has been primarily for making simple 3D movies (https://www.youtube.com/watch?v=gRnIld6qiw0).
 
-I am attaching a few simple codes.
+Here are a few code samples from the projects mentioned above:
 
 1. animate_floats_3d.py       - A Python script that uses MayaVi libraries to make a 3D movie. (https://www.youtube.com/watch?v=gRnIld6qiw0)
 2. cdfjz_all.f90              - A FORTRAN program to estimate surface PV fluxes. Uses base functions from CDFTOOLS. 
